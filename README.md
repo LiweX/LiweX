@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lihué 
 - 👀 I’m interested in videogames and programing
-- 🌱 I’m currently learning Unity,React and nest.js
+- 🌱 I’m currently working for InPunto
 - 📫 How to reach me lihue.luna@mi.unc.edu.ar
 
 <!---
